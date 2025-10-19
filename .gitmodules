@@ -10,3 +10,6 @@
 [submodule "academic/2025_term_up_autumn/2025_term_up_autumn_ps_probability_statistics_at_jlu"]
 	path = academic/2025_term_up_autumn/2025_term_up_autumn_ps_probability_statistics_at_jlu
 	url = https://github.com/jerzha40/2025_term_up_autumn_ps_probability_statistics_at_jlu.git
+[submodule "metaEssay"]
+	path = metaEssay
+	url = https://github.com/unjerry/metaEssay.git
