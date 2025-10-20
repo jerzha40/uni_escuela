@@ -13,3 +13,6 @@
 [submodule "metaEssay"]
 	path = metaEssay
 	url = https://github.com/unjerry/metaEssay.git
+[submodule "academic/2025_term_up_autumn/Group-Equivariant-CNN-Reproduction-and-Extension"]
+	path = academic/2025_term_up_autumn/Group-Equivariant-CNN-Reproduction-and-Extension
+	url = https://github.com/jerzha40/Group-Equivariant-CNN-Reproduction-and-Extension.git
