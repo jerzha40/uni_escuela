@@ -19,3 +19,6 @@
 [submodule "academic/2025_term_up_autumn/Learning_Fortran"]
 	path = academic/2025_term_up_autumn/Learning_Fortran
 	url = https://github.com/jerzha40/Learning_Fortran.git
+[submodule "academic/2025_term_up_autumn/2025_term_up_autumn_Admission"]
+	path = academic/2025_term_up_autumn/2025_term_up_autumn_Admission
+	url = https://github.com/jerzha40/2025_term_up_autumn_Admission.git
