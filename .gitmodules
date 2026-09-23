@@ -31,3 +31,6 @@
 [submodule "academic/2025_term_up_autumn/2025_term_up_autumn_pe_at_jlu"]
 	path = academic/2025_term_up_autumn/2025_term_up_autumn_pe_at_jlu
 	url = https://github.com/jerzha40/2025_term_up_autumn_pe_at_jlu.git
+[submodule "academic/2026_term_up_autumn/HarmonicConvergence"]
+	path = academic/2026_term_up_autumn/HarmonicConvergence
+	url = https://github.com/jerzha40/HarmonicConvergence.git
