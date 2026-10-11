@@ -34,3 +34,12 @@
 [submodule "academic/2026_term_up_autumn/HarmonicConvergence"]
 	path = academic/2026_term_up_autumn/HarmonicConvergence
 	url = https://github.com/jerzha40/HarmonicConvergence.git
+[submodule "academic/2026_term_up_autumn/2026tua-FunctionalAnalysis"]
+	path = academic/2026_term_up_autumn/2026tua-FunctionalAnalysis
+	url = https://github.com/jerzha40/2026tua-FunctionalAnalysis.git
+[submodule "academic/2026_term_up_autumn/2026tua-FVEM"]
+	path = academic/2026_term_up_autumn/2026tua-FVEM
+	url = https://github.com/jerzha40/2026tua-FVEM.git
+[submodule "academic/2026_term_up_autumn/2026tua-InverseAcousticElectromagneticScatteringTheory"]
+	path = academic/2026_term_up_autumn/2026tua-InverseAcousticElectromagneticScatteringTheory
+	url = https://github.com/jerzha40/2026tua-InverseAcousticElectromagneticScatteringTheory.git
