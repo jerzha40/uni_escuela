@@ -43,3 +43,6 @@
 [submodule "academic/2026_term_up_autumn/2026tua-InverseAcousticElectromagneticScatteringTheory"]
 	path = academic/2026_term_up_autumn/2026tua-InverseAcousticElectromagneticScatteringTheory
 	url = https://github.com/jerzha40/2026tua-InverseAcousticElectromagneticScatteringTheory.git
+[submodule "academic/2026_term_up_autumn/2026tua-OperatorLearning"]
+	path = academic/2026_term_up_autumn/2026tua-OperatorLearning
+	url = https://github.com/jerzha40/2026tua-OperatorLearning.git
